@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd financeapp/financeapp
+cd src/financeapp
 
 python manage.py runserver

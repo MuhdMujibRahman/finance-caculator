@@ -17,4 +17,4 @@ ENV PYTHONDONTWRITEBYTECODE=1
 ENV PYTHONUNBUFFERED=1
 
 
-ENTRYPOINT [ "bash","entrypoint.sh" ]
+ENTRYPOINT [ "bash","src/entrypoint.sh" ]
